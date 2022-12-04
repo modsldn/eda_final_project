@@ -1,2 +1,2 @@
-# eda_final_project
+# EDA final project
 
