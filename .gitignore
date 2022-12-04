@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea
+data/monthly-2020.csv
+data/monthly-2021.csv
+data/monthly-2019.csv
